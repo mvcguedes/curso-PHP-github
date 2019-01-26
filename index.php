@@ -1,6 +1,6 @@
 <?php
 
-echo "helo word 3 editado";
+echo "helo word  conflito 3 editado";
 
 
 ?>
